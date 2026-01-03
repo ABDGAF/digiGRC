@@ -13,7 +13,7 @@
     {
       "id": 800,
       "standard_id": 9,
-      "title": "Policies for information securityyyyyyy",
+      "title": "Policies for information security",
       "code": "5.1",
       "description": "<p class='control-description-text'>Information security policy and topic-specific policies should be defined, approved by management, published, communicated to and acknowledged by relevant personnel and relevant interested parties, and reviewed at planned intervals and if significant changes occur.</p>",
       "discussion": "",
@@ -1687,3 +1687,4 @@
   ]
 
 }
+
